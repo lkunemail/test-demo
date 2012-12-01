@@ -38,4 +38,6 @@ func main() {
 
 	//d := reflect.ValueOf(a).MethodByName("SetName").Call([]reflect.Value{})
 	//fmt.Println(d[0]("LiKun"))
+
+	fmt.Println("test for my git repo")
 }
